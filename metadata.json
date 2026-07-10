@@ -1,0 +1,6 @@
+{
+  "name": "Gaza Cash",
+  "description": "نظام ERP متكامل لإدارة المبيعات والحسابات لمندوبي المبيعات في الميدان يعمل بدون إنترنت مع مزامنة ذكية وتلقائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
